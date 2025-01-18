@@ -9,6 +9,6 @@ def read_file(filename):
     plt.show
     return img
 
-filename= "images.jpg"
-read_file(filename)
+filename= "gukesh.jpg"
+print(read_file(filename))
 
